@@ -110,7 +110,6 @@ fun_fact:    would rather rebuild a neural net from raw matrix math than import 
 <img src="https://raw.githubusercontent.com/Logan200419/Logan200419/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<sub>To enable the snake animation, add the `snk` GitHub Action to a repo named exactly `Logan200419` — instructions in the setup notes below.</sub>
 
 ---
 
