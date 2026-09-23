@@ -107,7 +107,11 @@ fun_fact:    would rather rebuild a neural net from raw matrix math than import 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Logan200419/Logan200419/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img
+    src="https://raw.githubusercontent.com/Logan200419/Logan200419/output/github-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
 </div>
 
 ---
