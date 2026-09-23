@@ -106,12 +106,9 @@ fun_fact:    would rather rebuild a neural net from raw matrix math than import 
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Logan200419/Logan200419/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Logan200419/Logan200419/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Logan200419/Logan200419/output/github-contribution-grid-snake.svg">
-</picture>
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/Logan200419/Logan200419/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
 ---
 
